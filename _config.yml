@@ -162,5 +162,5 @@ social-links:
     
     
   - name: resume
-    url-pattern: vahid-mzb.github.io/my_blog/__USERNAME__
+    url-pattern: https://vahid-mzb.github.io/__USERNAME__
     icon-class: fas fa-3x fa-user-graduate
