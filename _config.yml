@@ -35,8 +35,7 @@ blog_url: 'myblog.blog.com'
 email: 'vahid.mirzabayati@gmail.com'
 #messenger: 'myfbchat'
 telegram: 'vahid_mzb'
-resume: 'resume'
-social-links-order: [github-user, linkedin, blog_url, email , telegram , resume]
+social-links-order: [github-user, linkedin, blog_url, email , telegram]
 
 # Advanced settings
 plugins:
