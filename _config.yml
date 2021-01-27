@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Vahid Mirzabayati'
+description: 'An Electrical engineering student'
 
 # Images
 avatar: 'avatar.jpg'
@@ -14,7 +14,7 @@ favicon: 'favicon.ico'
 #dribbble: 'mydribbble'
 #facebook: 'myfacebook'
 #twitter: 'mytwitter'
-linkedin: 'vahid-mirzabayati'
+linkedin: 'vahid-mirzabayati-1215a11b2'
 #instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
@@ -35,7 +35,8 @@ blog_url: 'myblog.blog.com'
 email: 'vahid.mirzabayati@gmail.com'
 #messenger: 'myfbchat'
 telegram: 'vahid_mzb'
-social-links-order: [github-user, linkedin, blog_url, email , telegram]
+resume: 'resume'
+social-links-order: [github-user, linkedin, blog_url, email , telegram , resume]
 
 # Advanced settings
 plugins:
@@ -158,3 +159,8 @@ social-links:
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
+    
+    
+  - name: resume
+    url-pattern: vahid-mzb.github.io/my_blog/__USERNAME__
+    icon-class: fas fa-3x fa-user-graduate
